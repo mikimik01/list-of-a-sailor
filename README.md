@@ -4,6 +4,7 @@
 ---
 
 ## ✅ Dokumenty i formalności
+- [ ] KAUCJA!!!
 - [ ] Dowód osobisty
 - [ ] Bilety kolejowe
 - [ ] Kaucja
